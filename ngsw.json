@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625520693529,
+  "timestamp": 1642719638913,
   "index": "/web-app/index.html",
   "assetGroups": [
     {
@@ -62,18 +62,20 @@
         "/web-app/assets/styles/_status.scss",
         "/web-app/assets/styles/_text.scss",
         "/web-app/assets/styles/_width-height.scss",
-        "/web-app/assets/styles/_z-index.scss"
+        "/web-app/assets/styles/_z-index.scss",
+        "/web-app/assets/translations/en-US.json",
+        "/web-app/assets/translations/fr-FR.json"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/web-app/15.js": "0ae2bf39dac10685f3e74d1641c7f898c6de91ab",
+    "/web-app/15.js": "2d65e0476589c00e2e0cfdcbded66d4ec884df34",
     "/web-app/16.js": "7edabfec54e147989bdb9fb0e04b134d0e9fc703",
-    "/web-app/17.js": "8e4ff1d3ef18a0e29d9f3a7014293f3b69e9f0c1",
+    "/web-app/17.js": "be070366afa1d1f3270bcc2078c36cd357f87d42",
     "/web-app/2.js": "25809a09bde86a53b8c7d6d3f024976158e09b14",
-    "/web-app/3.js": "175a2ac3ccfe529e85311e9fbf2f400b1e99c980",
+    "/web-app/3.js": "3d6d2f746909380788bb9123b289f4429d00bb09",
     "/web-app/4.js": "6c69164d74ef3eebb08a9c3b1b5748d1558dff4f",
     "/web-app/assets/images/MifosX_logo.png": "fc66de5965e6054007a0e0c9e68f24f1ee250c21",
     "/web-app/assets/images/MifosX_logoSmall.png": "ebd340185b4888fdbe26b364303d2c072412b46e",
@@ -108,10 +110,12 @@
     "/web-app/assets/styles/_text.scss": "20eb0f1b9b07dec0ccf78b70569cec7d7e023334",
     "/web-app/assets/styles/_width-height.scss": "5eb56ee57f972d7d79aea744a259cf27cb0a1920",
     "/web-app/assets/styles/_z-index.scss": "9a37d216cb5d806887da931429725a28b3d731b8",
+    "/web-app/assets/translations/en-US.json": "6df971ce779a3e53d1a180ec124db84f92d41f13",
+    "/web-app/assets/translations/fr-FR.json": "1854c55f468895cf64d1ffbadbb6c191c3fa77c6",
     "/web-app/common.js": "a050732a86c7f6a22a00e7d36a730095d2b47710",
     "/web-app/favicon.ico": "31d1d887b9dec1f49614f289d6855f5ffa7c0902",
     "/web-app/index.html": "455bd76aa005f9eb8bee88696b774844cc8fda2d",
-    "/web-app/main.js": "f132f7c9861bbf9f19b132282fff9ed4f7953d96",
+    "/web-app/main.js": "eedb83ec05cff79b74ab7840576b2af634433b4b",
     "/web-app/polyfills-es5.js": "34d3bb02851d834ef1b39c6a4e888f868116c3bf",
     "/web-app/polyfills.js": "3ac51116a418c3e4f1b94df8fa7e9f5903c7fcc1",
     "/web-app/runtime.js": "63538fb89430e8954344b4a9feb642849a87ccec",
