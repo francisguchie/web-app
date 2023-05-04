@@ -9,8 +9,11 @@
   window["env"]["apiVersion"]  = '$FINERACT_API_VERSION';
 
   window["env"]["fineractPlatformTenantId"]  = '$FINERACT_PLATFORM_TENANT_IDENTIFIER';
+  window["env"]["fineractPlatformTenantIds"]  = '$FINERACT_PLATFORM_TENANTS_IDENTIFIER';
 
   // Language Environment variables
   window["env"]["defaultLanguage"] = '$MIFOS_DEFAULT_LANGUAGE';
   window["env"]["supportedLanguages"] = '$MIFOS_SUPPORTED_LANGUAGES';
+
+  window['env']['preloadClients'] = '$MIFOS_PRELOAD_CLIENTS';
 })(this);

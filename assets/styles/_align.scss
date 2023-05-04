@@ -19,7 +19,11 @@
 
 .r-amount {
   text-align: right !important;
-  padding-right: 5px;
+  padding-right: 5px !important;
+}
+
+.left {
+  text-align: left !important;
 }
 
 .right {
@@ -28,4 +32,12 @@
 
 .center {
   text-align: center !important;
+}
+
+.amount-plus {
+  color: $black;
+}
+
+.amount-minus {
+  color: $status-approved;
 }
