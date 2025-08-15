@@ -14,7 +14,7 @@ export const environment = {
   // For connecting to others servers running elsewhere update the base API URL
   baseApiUrls:
     loadedEnv['fineractApiUrls'] ||
-    'https://sandbox.mifos.community,https://demo.mifos.community,https://localhost:8443,' + window.location.origin,
+    'https://demo112x.corebanker.io,https://demo.corebanker.io,https://localhost:8443,' + window.location.origin,
   // For connecting to server running elsewhere set the base API URL
   baseApiUrl:
     loadedEnv['fineractApiUrl'] ||
@@ -55,7 +55,7 @@ export const environment = {
   },
   httpCacheEnabled: loadedEnv.httpCacheEnabled || false,
 
-  vNextApiUrl: window['env']['vNextApiUrl'] || 'https://apis.mifos.community',
+  vNextApiUrl: window['env']['vNextApiUrl'] || 'https://demo112x.corebanker.io',
   vNextApiProvider: window['env']['vNextApiProvider'] || '/vnext1',
   vNextApiVersion: window['env']['vNextApiVersion'] || '/v1.0',
   interbankTransfers: window['env']['interbankTransfers'] || false,
